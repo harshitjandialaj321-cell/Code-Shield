@@ -79,6 +79,7 @@ It will also generate a simple report that can help teachers review potentially 
 ### Team Members
 
 **Gaurav Dubey** — Team Lead
+
 **Harshit Jandial**
 
 ## References
