@@ -1,5 +1,5 @@
 # Code-Shield
-Code Shield: Source Code Similarity and Plagiarism Detection System
+### Code Shield: Source Code Similarity and Plagiarism Detection System
 
 Code Shield is a project designed to detect similarity between C/C++ source-code submissions. It is mainly focused on helping teachers identify potentially copied or highly similar programming assignments. Instead of comparing programs only as plain text, Code Shield processes the source code and looks at its structure and important parts. It removes unnecessary differences such as comments, extra spaces, and changes in variable names before comparing the programs.
 
