@@ -1,11 +1,11 @@
 # Code-Shield
 ### Code Shield: Source Code Similarity and Plagiarism Detection System
 
-Code Shield is a project designed to detect similarity between C/C++ source-code submissions. It is mainly focused on helping teachers identify potentially copied or highly similar programming assignments. Instead of comparing programs only as plain text, Code Shield processes the source code and looks at its structure and important parts. It removes unnecessary differences such as comments, extra spaces, and changes in variable names before comparing the programs.
+Code Shield is a project designed to detect similarity between C, C++ & Python source-code submissions. It is mainly focused on helping teachers identify potentially copied or highly similar programming assignments. Instead of comparing programs only as plain text, Code Shield processes the source code and looks at its structure and important parts. It removes unnecessary differences such as comments, extra spaces, and changes in variable names before comparing the programs.
 
 ## Features
 
-* Compare multiple C/C++ source-code files
+* Compare C, C++ & Python source-code files
 * Remove comments and unnecessary formatting
 * Tokenize source code
 * Normalize identifiers
@@ -48,7 +48,7 @@ Finally, fingerprints from different student submissions are compared to calcula
 
 ## Technologies / Concepts
 
-* C/C++
+* C, C++ & Python
 * Tokenization
 * Code Normalization
 * k-grams
@@ -59,13 +59,13 @@ Finally, fingerprints from different student submissions are compared to calcula
 
 ## Project Goals
 
-The main goal of Code Shield is to develop a simple and customizable source-code similarity detection system for C/C++ assignments.
+The main goal of Code Shield is to develop a simple and customizable source-code similarity detection system for C, C++ & Python assignments.
 
 The project aims to help instructors quickly identify submissions that may require further checking.
 
 ## Expected Outcome
 
-The final system will be able to compare C/C++ programs, calculate their similarity percentage, and highlight code sections where matching is found.
+The final system will be able to compare C, C++ & Python programs, calculate their similarity percentage, and highlight code sections where matching is found.
 
 It will also generate a simple report that can help teachers review potentially similar submissions.
 
